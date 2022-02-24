@@ -72,6 +72,15 @@ h1{
     padding-right: 10%;
 
 }
+.skills-name{
+    width:25%;
+    height: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 4px;
+    background-color:goldenrod;
+}
 footer{
     height: 100px;
     background-color: black;
